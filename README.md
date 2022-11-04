@@ -1,7 +1,9 @@
-<h1 align="center">Рада приветствовать вас в своем профиле. Меня зовут Алекс <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Рада приветствовать вас в своем профиле.<br>Меня зовут Алекс <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- 🔭 Осваиваю новую область для себя 
-- 🌱 Изучаю JS, React
+- 🔭 Я осваиваю для себя новую профессию
+- 🌱 Я в процессе изучения работы с JS, React, RestApi и т.д.
+- 😄 Я хочу к концу года устроиться на работу в IT 
+- ✨ Хочу освоить новые для себя навыки 
 
 ## Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
